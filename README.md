@@ -1,10 +1,13 @@
-# 📦 Calories and Exercise Predictor
+# 🔥 Calories and Exercise Predictor
 
 This Streamlit app leverages a 🔍 **Linear Regression** model to predict 🔥 **calories burned** based on various 🏃 **exercise metrics**. It serves as a starting point for exploring predictive modeling for 🏋️ **health and fitness** data.
 
 ## 🚀 Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calorie-predictor-app.streamlit.app)
+
+
+![image](https://github.com/user-attachments/assets/2dba96a4-06e1-4e04-94a5-36dcd7f51952)
 
 ## 💻 GitHub Codespaces
 
