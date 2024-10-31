@@ -4,7 +4,7 @@ This Streamlit app leverages a 🔍 **Linear Regression** model to predict 🔥 
 
 ## 🚀 Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calorie-predictor-app.streamlit.app)
 
 ## 💻 GitHub Codespaces
 
@@ -30,5 +30,5 @@ The dataset and model training are integrated within the app, allowing for real-
 
 - 📖 [Streamlit Documentation](https://docs.streamlit.io/)
 - 🧠 [Scikit-Learn: Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-- 📊 [Linear Regression Analysis](https://www.statisticssolutions.com/linear-regression/)
+- 🌐 [calories Dataset](https://github.com/xd7fx/Iris-Data-Analysis-and-Classification-Using-Machine-Learning/blob/master/IRIS.csv)
 
