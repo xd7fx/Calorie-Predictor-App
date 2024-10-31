@@ -7,7 +7,9 @@ This Streamlit app leverages a 🔍 **Linear Regression** model to predict 🔥 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calorie-predictor-app.streamlit.app)
 
 
-![image](https://github.com/user-attachments/assets/2dba96a4-06e1-4e04-94a5-36dcd7f51952)
+![image](https://github.com/user-attachments/assets/64231c0a-b5a4-4112-a383-ca5fbbe730bf)
+![image](https://github.com/user-attachments/assets/93c92a7b-0cd9-4366-8b7c-6ea6d32134d5)
+
 
 ## 💻 GitHub Codespaces
 
