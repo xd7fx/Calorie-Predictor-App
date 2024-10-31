@@ -30,5 +30,5 @@ The dataset and model training are integrated within the app, allowing for real-
 
 - 📖 [Streamlit Documentation](https://docs.streamlit.io/)
 - 🧠 [Scikit-Learn: Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-- 🌐 [calories Dataset](https://github.com/xd7fx/Iris-Data-Analysis-and-Classification-Using-Machine-Learning/blob/master/IRIS.csv)
-
+- 🌐 [calories Dataset](https://github.com/xd7fx/Calorie-Predictor-App/blob/master/calories.csv)
+- 🌐 [exercise Dataset](https://github.com/xd7fx/Calorie-Predictor-App/blob/master/exercise.csv)
