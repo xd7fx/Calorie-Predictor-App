@@ -31,6 +31,19 @@ The app uses a `LinearRegression` model to analyze the provided exercise data (`
 
 The dataset and model training are integrated within the app, allowing for real-time predictions.
 
+**## 📈 Model Comparison and Accuracy
+
+| 🤖 Model                 | 🎯Accuracy Score|
+|--------------------------|------------------|
+| Logistic Regression      | 96.04%           |
+| Random Forest Classifier | 99.82%           |
+| Support Vector Machine   | 99.13%           |
+| K-Nearest Neighbors      | 99.36%           |
+| Decision Tree Classifier | 99.35%           |
+
+Based on this comparison, the **Random Forest Classifier** achieved the highest accuracy (99.82%) and was chosen as the primary model for this application. This model leverages multiple decision trees to improve prediction performance, making it a reliable choice for this task.
+**
+
 ## 📚 Further Reading
 
 - 📖 [Streamlit Documentation](https://docs.streamlit.io/)
