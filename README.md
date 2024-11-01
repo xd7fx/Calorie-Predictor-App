@@ -36,10 +36,10 @@ The dataset and model training are integrated within the app, allowing for real-
 | 🤖 Model                 | 🎯Accuracy Score|
 |--------------------------|------------------|
 | Logistic Regression      | 96.04%           |
-| Random Forest Classifier | 99.82%           |
+| Random Forest Regression | 99.82%           |
 | Support Vector Machine   | 99.13%           |
 | K-Nearest Neighbors      | 99.36%           |
-| Decision Tree Classifier | 99.35%           |
+| Decision Tree Regression | 99.35%           |
 
 Based on this comparison, the **Random Forest Classifier** achieved the highest accuracy (99.82%) and was chosen as the primary model for this application. This model leverages multiple decision trees to improve prediction performance, making it a reliable choice for this task.
 **
